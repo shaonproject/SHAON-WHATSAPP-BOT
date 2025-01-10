@@ -10,7 +10,7 @@
     "8801962074300"
   ],
   "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
-  "PORT": "",
+  "PORT": "3000",
   "msg": {
     "modAdmin": false
   },
