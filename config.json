@@ -1,0 +1,21 @@
+{
+  "packname": "My Sticker Pack",
+  "author": "My Bot",
+  "botName": "Nayan Bot",
+  "botOwner": "Nayan",
+  "ownerNumber": "8801615298449",
+  "PREFIX": ".",
+  "admin": [
+    "",
+    "8801962074300"
+  ],
+  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
+  "PORT": "",
+  "msg": {
+    "modAdmin": false
+  },
+  "giphyApiKey": "qnl7ssQChTdPjsKta2Ax2LMaGXz303tq",
+  "commandMode": "public",
+  "description": "This is a bot for managing group commands and automating tasks.",
+  "version": "1.0.0"
+}
