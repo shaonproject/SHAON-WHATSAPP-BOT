@@ -7,7 +7,7 @@
 </div> 
 
 <div align="center"> 
-  <a href=""> 
+  <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk"> 
     <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Nayan Bot" height="300"> 
   </a> 
 </div>
@@ -37,11 +37,14 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="">
+  <a href="https://youtu.be/maayqyNRVoU?si=V0o0wDq81uYf2KAk">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+    <img src="https://img.shields.io/badge/Deploy on BotHosting-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  </a>
+  <a href="https://dash.hmvhostings.com/register?ref=pShF2nc4/">
+    <img src="https://img.shields.io/badge/Deploy on HMV-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
 
