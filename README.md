@@ -49,10 +49,10 @@ For further customization and setup guidance, click the button below:
 
 <div align="center">
   <a href="https://t.me/TEAM_X4X">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel"/>
-  </a>
+    <img src="https://img.shields.io/badge/Join%20Telegram Channel-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel"/>
+  </a><br>
   <a href="https://t.me/TEAM_X4X_CHAT">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram support"/>
+    <img src="https://img.shields.io/badge/Join%20Telegram Support-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram support"/>
   </a>
 </div>
 
