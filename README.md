@@ -11,6 +11,7 @@
     <img src="https://i.postimg.cc/mgFkCk39/IMG-20250105-WA0013.jpg" alt="Nayan Bot" height="300"> 
   </a> 
 </div>
+<br>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NAYAN-WHATSAPP-BOT}/count.svg" alt="Nayan :: Visitor's Count" /></p>
 
