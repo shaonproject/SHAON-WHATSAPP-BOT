@@ -12,6 +12,9 @@
   </a> 
 </div>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{NAYAN-WHATSAPP-BOT}/count.svg" alt="Nayan :: Visitor's Count" /></p>
+
+
 ---
 
 ## 🚀 Steps to Deploy
