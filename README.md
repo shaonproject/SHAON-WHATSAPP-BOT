@@ -48,8 +48,11 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
+  <a href="https://t.me/TEAM_X4X">
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram channel"/>
+  </a>
   <a href="https://t.me/TEAM_X4X_CHAT">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram support"/>
   </a>
 </div>
 
