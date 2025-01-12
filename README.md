@@ -46,6 +46,9 @@ For further customization and setup guidance, click the button below:
   <a href="https://dash.hmvhostings.com/register?ref=pShF2nc4/">
     <img src="https://img.shields.io/badge/Deploy on HMV-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
+  <a href="https://lunes.host/">
+    <img src="https://img.shields.io/badge/Deploy on Lunes Host-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  </a>
 </div>
 
 
