@@ -17,7 +17,7 @@ module.exports = {
 
     try {
       
-      const apis = await axios.get('https://raw.githubusercontent.com/MOHAMMAD-NAYAN/Nayan/main/api.json');
+      const apis = await axios.get('https://raw.githubusercontent.com/shaonproject/Shaon/main/api.json');
       const teachBaseUrl = apis.data.sim;
 
       
