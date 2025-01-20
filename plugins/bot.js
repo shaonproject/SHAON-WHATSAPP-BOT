@@ -37,7 +37,7 @@ module.exports = {
     try {
       
       const response = await axios.get(
-        `http://5.78.130.60:5009/sim?type=ask&ask=${encodeURIComponent(body)}`
+        `http://de01.uniplex.xyz:5244/sim?type=ask&ask=${encodeURIComponent(body)}`
       );
 
       const replyText = response.data.data?.msg || "I'm not sure how to respond to that.";
@@ -95,7 +95,7 @@ module.exports = {
     try {
       
       const response = await axios.get(
-        `http://5.78.130.60:5009/sim?type=ask&ask=${encodeURIComponent(usermsg)}`
+        `http://de01.uniplex.xyz:5244/sim?type=ask&ask=${encodeURIComponent(usermsg)}`
       );
 
       const replyText = response.data.data?.msg || "I'm not sure how to respond to that.";
