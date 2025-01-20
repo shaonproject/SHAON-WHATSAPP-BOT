@@ -20,19 +20,19 @@ const axios = require("axios");
 
     try {
       const apiData = await axios.get(
-        "https://raw.githubusercontent.com/MOHAMMAD-NAYAN/Nayan/main/api.json"
+        "https://raw.githubusercontent.com/shaonproject/Shaon/main/api.json"
       );
       const apiBaseURL = apiData.data.api;
 
       if (!msg) {
         
         try {
-          const res = await axios.get(`${apiBaseURL}/video/mixvideo`);
+          const res = await axios.get(`${apiBaseURL}/video/random`);
 
-          let video = `${res.data.url.url}`;
-          let name = `${res.data.url.name}`;
+          let video = `${res.data.url}`;
+          let name = `${res.data.name}`;
             let cp = `${res.data.cp}`
-          let ln = `${res.data.length}`
+          let ln = `${res.data.count}`
 
           await api.sendMessage(event.threadId, {
             video: { url: video },
