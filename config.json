@@ -1,13 +1,13 @@
 {
   "packname": "My Sticker Pack",
   "author": "My Bot",
-  "botName": "Nayan Bot",
-  "botOwner": "Nayan",
-  "ownerNumber": "8801615298449",
+  "botName": "Shaon Bot",
+  "botOwner": "Shaon",
+  "ownerNumber": "8801814587247",
   "PREFIX": ".",
   "admin": [
     "",
-    "8801615298449"
+    "8801814587247"
   ],
   "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
   "PORT": "3000",
